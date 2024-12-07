@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Docker
+docker-compose.override.yml
+.env
+db_data/
+
+# React Native
+.expo/
+.expo-shared/
+web-build/
+
+# OS/IDE-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.idea/
+*.vscode/
